@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SelectedDevice>HUAWEI PPA-LX1</SelectedDevice>
+    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
+    <ActiveDebugProfile>HUAWEI PPA-LX1 (Android 10.0 — API 29)</ActiveDebugProfile>
+    <AndroidDesignerPreferredDevice>7.3in Foldable</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.NoTitleBar.Fullscreen</AndroidDesignerPreferredTheme>
+    <_LastSelectedProfileId>D:\ArchivesAutobase\FastFindFix\FastFindFix.Android\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+</Project>

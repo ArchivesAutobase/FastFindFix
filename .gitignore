@@ -5,3 +5,5 @@
 [Oo]bj/
 
 *.nupkg
+*.dll
+*.so

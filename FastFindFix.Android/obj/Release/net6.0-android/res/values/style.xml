@@ -1,1 +1,0 @@
-<resources><style name="Theme.Custom" parent="android:Theme.NoTitleBar.Fullscreen"><item name="android:colorBackground">#ff000000</item><item name="android:windowBackground">?android:attr/colorBackground</item></style></resources>

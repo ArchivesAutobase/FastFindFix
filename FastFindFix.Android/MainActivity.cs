@@ -10,9 +10,9 @@ namespace FastFindFix.Android
     [Activity(Label = "@string/app_name", MainLauncher = true)]
     public class MainActivity : Activity
     {
-        protected override void OnCreate(Bundle? savedInstanceState)
+        protected override void OnCreate(Bundle? bundle)
         {
-            base.OnCreate(savedInstanceState);
+            base.OnCreate(bundle);
             SetContentView(Resource.Layout.activity_main);
         }
     }
